@@ -1,0 +1,8 @@
+This project has been carried out from scratch to practice React.
+
+I followed step by step a tutorial from the youtube french channel "codeconcept"
+
+To explore the site, please follow these instructions : 
+
+- Clone the repository
+- From the [root] folder, run `npm install`, then `npm start`
