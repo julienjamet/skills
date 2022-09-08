@@ -1,0 +1,21 @@
+.menu {
+    font-size: 1.2em;
+    margin-right: 40px;
+
+    ul {
+        list-style: none;
+        display: flex;
+        justify-content: space-between;
+
+        a {
+            text-decoration: none;
+            color: black;
+        }
+
+        .active-link {
+            font-weight: bold;
+            color: #07c5fa;
+            text-decoration: underline;
+        }
+    }
+}
