@@ -1,10 +1,12 @@
-This project has been carried out from scratch to practice React.
+This project has been made to practice React when I discovered it during my dev training.
 
-I followed step by step a tutorial from the youtube french channel "codeconcept".
+I followed a tutorial from the Youtube french channel "codeconcept" (link below).
 
 https://www.youtube.com/watch?v=7KC8QQXXN1M
 
-To explore the site, please follow these instructions : 
+To run the site locally, you will need to have Node and npm installed on your machine.
+
+Then please follow these instructions : 
 
 - Clone the repository
-- From the [root] folder, run `npm install`, then `npm start`
+- From the [root] folder, run `npm install` then `npm start`
